@@ -3,7 +3,17 @@ import { v4 as cloudinary } from "cloudinary";
 
 dotenv.config();
 
-cloudinary.uploader
-   .upload("assets/images/kitten.jpg")
-   .then((uploadResult) => console.log(JSON.stringify(uploadResult, null, 2)))
-   .catch((error) => console.error(error));
+cloudinary.config({
+   cloud_name: process.env.CLOUD_NAME,
+   api_key: process.env.API_KEY,
+   api_secret: process.env.API_SECRET,
+});
+
+export const uploadImage = async () => {
+   try {
+      const uploadResult = await cloudinary.uploader.upload("assets/images/kitten.jpg");
+      console.log(uploadResult);
+   } catch (error) {
+      console.log(error);
+   }
+};
