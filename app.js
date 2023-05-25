@@ -1,3 +1,4 @@
-import { uploadExample1 } from "./upload/lesson1/index.js";
+import { uploadExample1, uploadExample2 } from "./upload/lesson1/index.js";
 
-uploadExample1();
+// uploadExample1();
+// uploadExample2();
