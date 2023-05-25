@@ -1,0 +1,22 @@
+{
+   "asset_id": "942d6c62fce2ec56e19d1e6df06200e0",
+   "public_id": "cute_animals/kitten",
+   "version": 1684981962,
+   "version_id": "2730bcd3e3d17a22f41863a1f2476391",
+   "signature": "96b04300bc0d1758ad9c52ad770903ac7bd2969a",
+   "width": 2853,
+   "height": 3803,
+   "format": "jpg",
+   "resource_type": "image",
+   "created_at": "2023-05-25T02:32:42Z",
+   "tags": [],
+   "bytes": 1949503,
+   "type": "upload",
+   "etag": "fce8c540cc5f7dbe8ada53bc3584f8a4",
+   "placeholder": false,
+   "url": "http://res.cloudinary.com/dptaul20s/image/upload/v1684981962/cute_animals/kitten.jpg",
+   "secure_url": "https://res.cloudinary.com/dptaul20s/image/upload/v1684981962/cute_animals/kitten.jpg",
+   "folder": "cute_animals",
+   "original_filename": "kitten",
+   "api_key": "126185972857161"
+}
