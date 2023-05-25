@@ -3,9 +3,9 @@
    "version": "0.0.1",
    "description": "Repository to be used with Cloudinary's Training Fundamentals for Developers course.",
    "type": "module",
-   "main": "index.js",
+   "main": "app.js",
    "scripts": {
-      "dev": "node ./index.js"
+      "dev": "node ./app.js"
    },
    "repository": {
       "type": "git",

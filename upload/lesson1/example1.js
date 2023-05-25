@@ -9,7 +9,7 @@ cloudinary.config({
    api_secret: process.env.API_SECRET,
 });
 
-export const uploadImage = async () => {
+const uploadExample1 = async () => {
    try {
       const uploadResult = await cloudinary.uploader.upload("assets/images/kitten.jpg");
       console.log(uploadResult);
@@ -17,3 +17,5 @@ export const uploadImage = async () => {
       console.log(error);
    }
 };
+
+export default uploadExample1;
