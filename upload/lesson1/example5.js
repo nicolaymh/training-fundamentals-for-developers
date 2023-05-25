@@ -11,7 +11,7 @@ cloudinary.config({
 
 const uploadExample5 = async () => {
    try {
-      const uploadResult = await cloudinary.uploader.upload("assets/images/kitten.jpg", {
+      const uploadResult = await cloudinary.uploader.upload("assets/images/kitten2.jpg", {
          public_id: "cute_animals/kitten",
       });
 
