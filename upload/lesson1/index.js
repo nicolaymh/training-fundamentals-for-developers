@@ -4,6 +4,7 @@ import uploadExample3 from "./example3.js";
 import uploadExample4 from "./example4.js";
 import uploadExample5 from "./example5.js";
 import uploadExample6 from "./example6.js";
+import uploadExample7 from "./example7.js";
 
 export {
    uploadExample1,
@@ -12,4 +13,5 @@ export {
    uploadExample4,
    uploadExample5,
    uploadExample6,
+   uploadExample7,
 };
