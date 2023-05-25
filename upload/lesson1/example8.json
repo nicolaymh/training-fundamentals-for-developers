@@ -1,0 +1,22 @@
+{
+   "asset_id": "17ae4c66e0c24e026f5705938646cd33",
+   "public_id": "tigerCat",
+   "version": 1685024981,
+   "version_id": "6f39d9c626ab4c8dbd1b4ff11c5d1c89",
+   "signature": "b6b18b0ca14f3981450508857e01f0ff0650aada",
+   "width": 2136,
+   "height": 2848,
+   "format": "jpg",
+   "resource_type": "image",
+   "created_at": "2023-05-25T14:29:41Z",
+   "tags": [],
+   "bytes": 3586298,
+   "type": "upload",
+   "etag": "4be8a04fed0ec1f5d148598d107ad647",
+   "placeholder": false,
+   "url": "http://res.cloudinary.com/dptaul20s/image/upload/v1685024981/tigerCat.jpg",
+   "secure_url": "https://res.cloudinary.com/dptaul20s/image/upload/v1685024981/tigerCat.jpg",
+   "folder": "",
+   "original_filename": "Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A",
+   "api_key": "126185972857161"
+}

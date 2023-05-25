@@ -6,6 +6,7 @@ import {
    uploadExample5,
    uploadExample6,
    uploadExample7,
+   uploadExample8,
 } from "./upload/lesson1/index.js";
 
 // uploadExample1();
@@ -14,4 +15,5 @@ import {
 // uploadExample4();
 // uploadExample5();
 // uploadExample6();
-uploadExample7();
+// uploadExample7();
+uploadExample8();
